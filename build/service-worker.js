@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/darwin619/Movieflix-Clone/precache-manifest.ff4aceb0ecde7eb1c9bcc960a903da94.js"
+  "/darwin619/Movieflix-Clone/precache-manifest.cce781868234e6ef173283b12de3b40b.js"
 );
 
 self.addEventListener('message', (event) => {

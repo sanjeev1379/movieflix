@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76f4a96b0a4a03e72e528562c793ee01",
+    "revision": "f05d7d768519e860017e96561919a1fb",
     "url": "/darwin619/Movieflix-Clone/index.html"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/darwin619/Movieflix-Clone/static/css/8.3c9a809d.chunk.css"
   },
   {
-    "revision": "e31b6c59e3c8edd716e5",
+    "revision": "dc666a734f4795788f95",
     "url": "/darwin619/Movieflix-Clone/static/css/main.e1605052.chunk.css"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/darwin619/Movieflix-Clone/static/js/8.1539e181.chunk.js"
   },
   {
-    "revision": "e31b6c59e3c8edd716e5",
-    "url": "/darwin619/Movieflix-Clone/static/js/main.43666251.chunk.js"
+    "revision": "dc666a734f4795788f95",
+    "url": "/darwin619/Movieflix-Clone/static/js/main.48575427.chunk.js"
   },
   {
     "revision": "74682783de766c85de3f",
