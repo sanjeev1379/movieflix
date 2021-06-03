@@ -22,7 +22,6 @@ class ItemPage extends React.Component {
     return this.props.movies
       ? this.props.dispatch(getAdditionalMovieData(this.props.item.id))
       : this.props.dispatch(getAdditionalTVData(this.props.item.id));
-    window.scrollTo(0, 0);
   }
 
   render() {
