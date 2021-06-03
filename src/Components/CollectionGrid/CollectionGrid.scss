@@ -54,3 +54,12 @@
 .collection-grid__right-arrow {
   margin-right: 50px;
 }
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .collection-grid__left-arrow {
+    margin-left: 10px;
+  }
+  .collection-grid__right-arrow {
+    margin-right: 10px;
+  }
+}

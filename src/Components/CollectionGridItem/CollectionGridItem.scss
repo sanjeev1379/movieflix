@@ -86,7 +86,16 @@
 .grid-item__movie-text{
   margin: 80px;
 }
-
 .grid-item__tv-text{
   margin: 80px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  .grid-item__movie-text{
+    margin: 0px;
+  }
+  .grid-item__tv-text{
+    margin: 0px;
+  }
 }

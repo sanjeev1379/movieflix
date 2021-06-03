@@ -129,8 +129,18 @@
 .collection-preview__right-arrow {
   margin-right: 45px;
 }
-
 .collection-preview__left-arrow {
   position: absolute;
   margin-left: 15px;
+}
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .collection-preview__right-arrow {
+    margin-right: 15px;
+  }
+  .collection-preview__left-arrow {
+    position: absolute;
+    margin-left: 10px;
+  }
 }

@@ -10,3 +10,10 @@
 .collection-overview {
   margin: 40px;
 }
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .collection-overview {
+    margin: 0px;
+    margin-left: 5px;
+  }
+}
