@@ -1,5 +1,7 @@
 .collection-item {
   position: relative;
+  margin: 10px;
+  border-radius: 10px;
 
   &:hover &__text {
     visibility: visible;
@@ -76,4 +78,8 @@
       display: none;
     }
   }
+}
+
+.collection-item__movie-image {
+  border-radius: 5px;
 }

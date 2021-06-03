@@ -1,7 +1,7 @@
 
-# Netflix Clone
+# Movieflix Clone
 
-- **Netflix Clone made with React, Redux and Firebase**
+- **Movieflix Clone made with React, Redux and Firebase**
 
 ---
 
@@ -32,7 +32,7 @@ Demo: [Link](https://netflix-clone-by-shivam.netlify.com/)
 
 ### Video Demo
 
-![demogif](Netflix-Clone.gif)
+![demogif](Movieflix-Clone.gif)
 
 ---
 
@@ -55,7 +55,7 @@ Demo: [Link](https://netflix-clone-by-shivam.netlify.com/)
 
 ## Implementation Highlights
 
-Netflix clone made with advanced react, redux & firebase which uses redux thunk to asynchronously fetch movie data of over 30 thousand movies from Tmdb api. Features include a multi-active searchbar, user signup and signin, add to list option for each user, trailer links, dynamically generated movie and tv show pages and an interactive UI replicated from the original netflix app.
+Movieflix clone made with advanced react, redux & firebase which uses redux thunk to asynchronously fetch movie data of over 30 thousand movies from Tmdb api. Features include a multi-active searchbar, user signup and signin, add to list option for each user, trailer links, dynamically generated movie and tv show pages and an interactive UI replicated from the original netflix app.
 
 ### User Stories
 

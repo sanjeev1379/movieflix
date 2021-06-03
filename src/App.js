@@ -44,7 +44,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="box">
         <Header currentRoute={this.props.location.pathname} />
         <Switch>
           <Route exact path="/" component={Movies} />

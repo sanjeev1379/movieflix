@@ -84,7 +84,7 @@ class SignIn extends React.Component {
               </div>
             </form>
             <div className="signin__option">
-              <span className="signin__option--newuser">New to Netflix?</span>
+              <span className="signin__option--newuser">New to Movieflix?</span>
               <Link to="/signup" className="signin__option--link">
                 Sign up now.
               </Link>

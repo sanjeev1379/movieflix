@@ -48,16 +48,16 @@
   "devDependencies": {
     "font-awesome": "^4.7.0"
   },
-  "description": "- **Netflix Clone made with React, Redux and Firebase**",
+  "description": "- **Movieflix Clone made with React, Redux and Firebase**",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darwin619/Netflix-Clone.git"
+    "url": "git+https://github.com/darwin619/Movieflix-Clone.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/darwin619/Netflix-Clone/issues"
+    "url": "https://github.com/darwin619/Movieflix-Clone/issues"
   },
-  "homepage": "https://github.com/darwin619/Netflix-Clone#readme"
+  "homepage": "https://github.com/darwin619/Movieflix-Clone#readme"
 }

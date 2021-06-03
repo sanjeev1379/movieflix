@@ -5,6 +5,7 @@
   &:last-child {
     .grid-item__movie-text {
       bottom: 40%;
+      margin: 50px;
 
       @media screen and (max-width: 800px) {
         bottom: 17%;
@@ -80,4 +81,12 @@
     &__overview {
       color: white;
     }
+}
+
+.grid-item__movie-text{
+  margin: 80px;
+}
+
+.grid-item__tv-text{
+  margin: 80px;
 }

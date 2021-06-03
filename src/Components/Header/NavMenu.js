@@ -10,7 +10,7 @@ import { compose } from "redux";
 import { faTimes } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { ToggleMenuHidden } from "../../Redux/User/user-actions";
-import Netflix from "../../Assets/netflix.jpg";
+import Movieflix from "../../Assets/netflix.jpg";
 
 const NavMenu = ({ history, currentUser, ToggleMenuHidden }) => {
   return (
@@ -19,7 +19,7 @@ const NavMenu = ({ history, currentUser, ToggleMenuHidden }) => {
         <FontAwesomeIcon icon={faTimes} className="overlay__exit-icon" />
       </div>
       <div className="overlay__content" onClick={ToggleMenuHidden}>
-        <img src={Netflix} alt="netflix" className="overlay__netflix" />
+        <img src={Movieflix} alt="netflix" className="overlay__netflix" />
 
         {currentUser ? (
           <Link className="overlay__username" to="">
